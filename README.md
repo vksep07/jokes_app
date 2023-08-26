@@ -2,7 +2,7 @@
 
 The Joke App is a simple and engaging mobile application developed using the Flutter framework. Its primary function is to provide users with a constant stream of humorous jokes fetched from an open API. With its minimalist design and seamless functionality, the app aims to bring joy and entertainment to users while demonstrating clean coding practices and a well-organized project structure.
 
-In this app we are showing the intaractive UI interface with Dymanic widget Api data  to understand the basic flow. In this project we are using the clean architecture  with following folder breakup -> Parent folder - ( View, Bloc, Network ). We are using the modular approach for reduce the modular dependency between the each module of the project. Clean architecture also decouple the presentation layer and business layer.
+In this app we are showing the intaractive UI interface with Jokes Api data  to understand the basic flow. In this project we are using the clean architecture  with following folder breakup -> Parent folder - ( View, Bloc, Network ). We are using the modular approach for reduce the modular dependency between the each module of the project. Clean architecture also decouple the presentation layer and business layer.
 
 
 ## Logo
