@@ -1,6 +1,6 @@
-# Jokes App  ( :smile: )
+# Jokes App  ( :smile: ) [ Ios and Android ]
 
-The Joke App is a simple and engaging mobile application developed using the Flutter framework. Its primary function is to provide users with a constant stream of humorous jokes fetched from an open API. With its minimalist design and seamless functionality, the app aims to bring joy and entertainment to users while demonstrating clean coding practices and a well-organized project structure.
+The Joke App is a simple and engaging mobile application developed using the Flutter framework for Ios and Android. Its primary function is to provide users with a constant stream of humorous jokes fetched from an open API. With its minimalist design and seamless functionality, the app aims to bring joy and entertainment to users while demonstrating clean coding practices and a well-organized project structure.
 
 In this app we are showing the intaractive UI interface with Jokes Api data  to understand the basic flow. In this project we are using the clean architecture  with following folder breakup -> Parent folder - ( View, Bloc, Network ). We are using the modular approach for reduce the modular dependency between the each module of the project. Clean architecture also decouple the presentation layer and business layer.
 
@@ -17,13 +17,16 @@ In this app we are showing the intaractive UI interface with Jokes Api data  to 
 - Dynamic List: The jokes are displayed in a scrollable list on the app's main screen. The list automatically updates as new jokes are fetched and ensures that only the most recent 10 jokes are displayed at any given time.
 
 - Minimalist UI: The user interface is intentionally kept clean and simple, allowing users to focus on the jokes themselves. The main screen consists of a list of jokes with no unnecessary distractions.
+  
+- Theme Support: The app offers both light and dark themes to suit users' preferences. The user can choose between these themes in the app's settings, enhancing the visual experience and personalizing the app's appearance.
 
 
 ## Screenshots
 
 ![dark_theme_screenshot](https://github.com/vksep07/jokes_app/assets/16042343/414dd007-b6cd-4990-bcb4-79650461c805)
 
-![dark_theme_screenshot](https://github.com/vksep07/jokes_app/assets/16042343/e981133d-7adb-4d09-8788-88b0123c5f7a)
+
+![light_theme_screenshot](https://github.com/vksep07/jokes_app/assets/16042343/9d7d5865-f7a2-4af2-a785-b92abf63c57a)
 
 
 
