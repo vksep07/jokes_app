@@ -99,7 +99,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     );
                   }
 
-                  return AppTextWidget(text: 'No Data Found!');
+                  return AppTextWidget(text: '${UtilsImporter().stringUtils.no_data_found}');
                 },
               );
             } else {
